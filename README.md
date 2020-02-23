@@ -1,8 +1,8 @@
-# Project 5 - *Instagram Clone*
+# Project 3 - *InstaClone*
 
-Instaclone is a photo sharing app similar to Instagram but using Parse as its backend.
+**InstaClone** is a photo sharing app similar to Instagram but using Parse as its backend.
 
-Time spent: 4 hours spent in total
+Time spent: **5** hours spent in total
 
 ## User Stories
 
@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/tcuAYjz.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='VideoWalkthrough.gif' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -42,7 +42,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [2020] [Sergio Dejo Ames]
+    Copyright [2020] [Chase Cherico-Chipres]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
